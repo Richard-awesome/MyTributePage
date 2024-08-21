@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #111D13;
+  color: #A1CCA5;
+  
+}
+
+
+
+#main{
+  margin: 30px;
+  background-color: #8bF996;
+  padding: 30px;
+}
+
+#img-div{
+  display: block;
+  float: right;
+}
+#tribute-info{
+  text-align: center;
+}
+
+a{
+ margin: 30px;
+}
+
+img{
+  border-radius: 50rem;
+  display: block;
+}
+#image{
+  max-width: 100%;
+  height: auto;
+}
+
+.content{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
